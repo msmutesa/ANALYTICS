@@ -33,39 +33,3 @@ By using computer vision and deep learning, the model can detect whether a leaf 
 ├── app/           # Streamlit or FastAPI app
 └── README.md      # Project overview
 
-🚀 Roadmap
-
- Define problem + scope
-
- Collect & clean maize + tomato datasets
-
- Train baseline CNN
-
- Apply transfer learning (ResNet/MobileNet)
-
- Evaluate with metrics (Accuracy, F1, Confusion Matrix)
-
- Build Streamlit demo app
-
- Write blog post + polish repo
-
-🌟 Future Vision
-
-Add more crops + diseases
-
-Mobile app with TensorFlow Lite
-
-SMS/USSD support for farmers without smartphones
-
-Partnerships with NGOs + agricultural agencies
-
-🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-Open a PR or start a discussion 🗣️
-
-📧 Contact
-
-Created with ❤️ by Mutesa
-Let’s talk: [your email/LinkedIn/GitHub profile link here]
-
